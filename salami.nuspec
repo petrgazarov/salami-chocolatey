@@ -9,7 +9,7 @@
     <projectUrl>https://github.com/petrgazarov/salami</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/petrgazarov/salami/main/docs/images/salami-icon.png</iconUrl>
     <copyright>Petr Gazarov 2023</copyright>
-    <tags>salami,cloud-infrastructure,natural-language,llm,infrastructure-as-code</tags>
+    <tags>salami cloud-infrastructure natural-language llm infrastructure-as-code</tags>
     <releaseNotes>https://github.com/petrgazarov/salami/releases</releaseNotes>
     <licenseUrl>https://github.com/petrgazarov/salami/blob/main/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
