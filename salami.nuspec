@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>salami</id>
+    <version>0.0.1</version>
+    <owners>Petr Gazarov</owners>
+    <title>Salami (Portable)</title>
+    <authors>Petr Gazarov</authors>
+    <projectUrl>https://github.com/petrgazarov/salami</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/petrgazarov/salami/main/docs/images/salami-icon.png</iconUrl>
+    <copyright>Petr Gazarov 2023</copyright>
+    <tags>salami,cloud-infrastructure,natural-language,llm,infrastructure-as-code</tags>
+    <releaseNotes>https://github.com/petrgazarov/salami/releases</releaseNotes>
+    <licenseUrl>https://github.com/petrgazarov/salami/blob/main/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <packageSourceUrl>https://github.com/petrgazarov/salami-chocolatey</packageSourceUrl>
+    <docsUrl>https://github.com/petrgazarov/salami#readme</docsUrl>
+    <projectSourceUrl>https://github.com/petrgazarov/salami</projectSourceUrl>
+    <bugTrackerUrl>https://github.com/petrgazarov/salami/issues</bugTrackerUrl>
+    <summary>Salami is a declarative DSL for cloud infrastructure based on natural language descriptions</summary>
+    <description>Salami allows to manage your cloud infrastructure using natural language</description>
+  </metadata>
+</package>
