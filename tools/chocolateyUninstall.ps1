@@ -3,7 +3,6 @@ $bindir   = Join-Path -Path $toolsDir -ChildPath "salami\bin"
 
 $unPath = Join-Path $toolsDir 'Uninstall-ChocolateyPath.psm1'
 Import-Module $unPath
-Uninstall-ChocolateyPath $bindir 'Machine'
 
 $salamiDir = Join-Path -Path $toolsDir -ChildPath "salami"
 
